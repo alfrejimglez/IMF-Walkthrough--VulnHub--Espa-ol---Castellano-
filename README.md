@@ -57,8 +57,8 @@ Este walkthrough detalla cómo se explotaron dichas vulnerabilidades para conseg
 
 ## Referencias y recursos
 
-- Walkthrough original: [GitHub - IMF Walkthrough (Español)](https://github.com/alfrejimglez/IMF-Walkthrough--VulnHub--Espa-ol---Castellano-/blob/main/alfredo_exploit.py)
-- Knock tool: [https://github.com/guelfoweb/knock](https://github.com/guelfoweb/knock)
+- Exploit en este repositorio - [Exploit Python (alfredoexploit.py)](https://github.com/alfrejimglez/IMF-Walkthrough--VulnHub-Castellano-/blob/main/alfredoexploit.py)
+- - Knock tool: [https://github.com/guelfoweb/knock](https://github.com/guelfoweb/knock)
 Maquina Subida a mediafire (sin realizar)
 [IMF.tar - Descarga aquí](https://www.mediafire.com/file/uuq8p77tshffbl7/IMF.tar/file)
 
